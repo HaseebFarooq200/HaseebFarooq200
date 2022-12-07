@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Haseeb Khan</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
 
+<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/115168071/206274390-4f1b96b9-2d0d-4e6e-b81f-4a2c11efa633.png"
+
 - 🔭 I’m currently studying **Computer Science**
 
 - 🌱 I’m currently learning **Cloud Enable Application**
