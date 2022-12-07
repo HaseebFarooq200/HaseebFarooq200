@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Haseeb Khan</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
 
+- 🔭 I’m currently studying **Computer Science**
+
+- 🌱 I’m currently learning **Cloud Enable Application**
+
 - 💬 Ask me about **React,Nodejs**
 
 - 📫 How to reach me **haseebfarooq200@gmail.com**
