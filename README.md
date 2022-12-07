@@ -1,3 +1,4 @@
+![logo](https://github.com/HaseebFarooq200/HaseebFarooq200/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Haseeb Khan</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
 
