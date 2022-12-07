@@ -3,6 +3,8 @@
 
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/115168071/206274390-4f1b96b9-2d0d-4e6e-b81f-4a2c11efa633.png">
 
+</img>
+
 - 🔭 I’m currently studying **Computer Science**
 
 - 🌱 I’m currently learning **Cloud Enable Application**
